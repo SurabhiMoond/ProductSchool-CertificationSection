@@ -17,8 +17,10 @@ The project was completed as part of a 5-day coding challenge. The main aim of t
 
 You can view the live project here: [Certification Section Clone](https://6641f3594c729c0300f5e054--sprightly-phoenix-e4e4d9.netlify.app/)
 
-## Some page insights : 
+## Some page insights :
 ![image](https://github.com/SurabhiMoond/ProductSchool-CertificationSection/assets/154314470/e79e4d42-cfdb-4b9f-9a01-a26dd3f208c4)![image](https://github.com/SurabhiMoond/ProductSchool-CertificationSection/assets/154314470/052d1fac-6961-40fe-b6e0-8dbd310bb3dc)
+
+
 ![image](https://github.com/SurabhiMoond/ProductSchool-CertificationSection/assets/154314470/205cf21a-7e12-41d1-8b58-5b3204095c57)
 ![image](https://github.com/SurabhiMoond/ProductSchool-CertificationSection/assets/154314470/91d23b5c-98a0-49d4-ada6-ee27297049cc)
 
